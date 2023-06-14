@@ -13,3 +13,5 @@ Files In the Repository Include:
 * BikeStoreQuery1 (Writing code to merge and group data)
 * BikeStoreDashboard.xlsx (Excel file containing pivot tables and Excel dashboard)
 * BikeStoreDashboardTableau (png of Tableau Dashboard) [Tableau Dashboard Link](https://public.tableau.com/app/profile/daniel.warner8834/viz/BikeStoreDashboard_16863504991130/Dashboard1)
+
+  
