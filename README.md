@@ -15,7 +15,7 @@ Looking forward to connecting with you!
 # Dans_Portfolio
 ### *Please Click On Drop Down Triangle For Information On Projects
 <details>
-<summary><h2> Bike Store Dashboard</h2></summary>
+<summary><strong><h2>Bike Store Dashboard</h2></strong></summary>
 
 Welcome to my Bike Store Project. This project involved creating tables in Microsoft SQL, cleaning, merging, and grouping the data. Connecting SQL to Excel to create pivot tables and an Excel dashboard.
 Then finally connecting it to Tableau Public to create another more interactive dashboard. The dataset includes information about Bike store locations, Bike types, Customer names, Sales rep names, order dates, revenue, and more.
