@@ -1,7 +1,20 @@
-# dans_portfolio
+## Contact Information
+
+
+✉️ Email: warnd114@gmail.com
+🌐 LinkedIN: [Daniel Warner's LinkedIN](https://www.linkedin.com/in/daniel-warner-720273238/)
+
+
+## About Me
+
+Hello! I'm Daniel Warner a recent graduate from The University of Oregon. I am skilled in using SQL, Excel, Tableau, Python, and Rstudio to complete data analytics tasks and create data visualizations. I am passionate about continuing to further my education and knowledge in the Data Science field.
+
+Looking forward to connecting with you!
+
+# Dans_Portfolio
 ## Bike Store Dashboard
 
-Welcome to my Bike Store Project. This project involved creating tables to Microsoft SQL, cleaning, merging, and grouping the data. Connecting SQL to Excel to create pivot tables and an Excel dashboard.
+Welcome to my Bike Store Project. This project involved creating tables in Microsoft SQL, cleaning, merging, and grouping the data. Connecting SQL to Excel to create pivot tables and an Excel dashboard.
 Then finally connecting it to Tableau Public to create another more interactive dashboard. The dataset includes information about Bike store locations, Bike types, Customer names, Sales rep names, order dates, revenue, and more.
 
 The goal was to create an easily digestible dashboard where stakeholders could get quick information about profitable stores, customers, years, bike models, and more at a glance. This is aimed to assist business operations and potentially improving sales strategies.
