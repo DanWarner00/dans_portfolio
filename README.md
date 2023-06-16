@@ -13,7 +13,7 @@ Looking forward to connecting with you!
 
 
 # Dans_Portfolio
-### *Please Click On Drop Down Triangle For Information On Projects
+## Bike Store Dashboard -Excel, SQL, Tableau
 
 
 Welcome to my Bike Store Project. This project involved creating tables in Microsoft SQL, cleaning, merging, and grouping the data. Connecting SQL to Excel to create pivot tables and an Excel dashboard.
@@ -30,7 +30,7 @@ Files In the Repository Under the "BikeStoreCommit" Include:
 * BikeStoreDashboardTableau (png of Tableau Dashboard) [Tableau Dashboard Link](https://public.tableau.com/app/profile/daniel.warner8834/viz/BikeStoreDashboard_16863504991130/Dashboard1)
   <img src="BikeStoreDashboardTableau.png" alt="Tableau Dashboard" style="width:420px;">
 
-
+## College Admission Predictor - Regression - Python
 Welcome to my College Admissions Project. In this project, I had a sample dataset with hundreds of students' chances of admission based on their GRE scores, CGPAs, information on if they had done research projects, what rating the college they are applying for is (1-5), and more data involving their academic success. I also have a hypothetical dataset with the information above minus the chance of admission for 5 prospective students.
 
 The goal of the code was to run multiple different regressions to try to find out the most accurate model to incorporate to get a prediction for the "CollegeScores" dataset that had the 5 prospective students. The models included linear regression, decision tree regression, and random forest regression.
@@ -44,7 +44,7 @@ Files In the Repository Under the "CollegeAdmissionCommit" Include:
 The linear regression model ended with the lowest MSE, and using that model I was able to get a prediction of the students' chance of admission to their respective schools (81.3, 69.2...)
 <img src="StudentPredictions.png" alt="Student Prediction Percentage" style="width:420px;">
 
-
+## Washington Housing Price Predictor - Regression - R
 Welcome to my Housing Price Prediction Project. This project was completed during my time at the University of Oregon in my Predictive Modeling class. This dataset was found through Kaggle and contained 4600 rows of data including information about Washington houses'; prices, city, sq. footage, bedrooms, bathrooms, if they were waterfront properties, had a view, had been remodeled, and much more.
 
 The goal of the project is to create an accurate price for new listings based on previous listings in the state of Washington. The dataset required a lot of cleaning and manipulation that was done through Rstudio to be useful for our problem and regression models. By using multiple different regression techniques I determined the best-fit model regression model to run to come up with the highest accuracy through partitioning the data and training it on the "HousingPricesRawData" dataset. After determining significant variables for predicting the price 
