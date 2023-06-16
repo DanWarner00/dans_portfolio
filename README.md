@@ -9,7 +9,7 @@
 
 Hello! I'm Daniel Warner, a recent graduate from The University of Oregon. I am skilled in using SQL, Excel, Tableau, Python, and RStudio to complete data analytics tasks and create data visualizations. I am passionate about continuing to further my education and knowledge in the Data Science field.
 
-Looking forward to connecting with you!
+Looking forward to connecting with you!!!
 
 # Dans_Portfolio
 
