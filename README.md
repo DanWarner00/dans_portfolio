@@ -2,12 +2,12 @@
 
 <img src="grad pic 2.jpg" alt="Daniel Warner" width="30">
 ✉️ Email: warnd114@gmail.com
-🌐 LinkedIN: https://www.linkedin.com/in/daniel-warner-720273238/
+🌐 LinkedIN: [Daniel Warner LinkedIN](https://www.linkedin.com/in/daniel-warner-720273238/)
 
 
 ## About Me
 
-Hello! I'm Daniel Warner a recent graduate from The University of Oregon. I am skilled in using SQL, Excel, Tableau, Python, and Rstudio to complete data analytics tasks and create data visualizations. I am passionate about continuing to further my education and knowledge in the Data Science field.
+Hello! I'm Daniel Warner, a recent graduate from The University of Oregon. I am skilled in using SQL, Excel, Tableau, Python, and Rstudio to complete data analytics tasks and create data visualizations. I am passionate about continuing to further my education and knowledge in the Data Science field.
 
 Looking forward to connecting with you!
 
