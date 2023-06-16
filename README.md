@@ -8,8 +8,17 @@ The goal was to create an easily digestible dashboard where stakeholders could g
 
 [Bike Store Dashboard Commit Files](https://github.com/DanWarner00/dans_portfolio)
 
-Files In the Repository Include:
+Files In the Repository Under the "BikeStoreCommit" Include:
 * BikeStores Sample Database (Creating and loading data)
 * BikeStoreQuery1 (Writing code to merge and group data)
 * BikeStoreDashboard.xlsx (Excel file containing pivot tables and Excel dashboard)
 * BikeStoreDashboardTableau (png of Tableau Dashboard) [Tableau Dashboard Link](https://public.tableau.com/app/profile/daniel.warner8834/viz/BikeStoreDashboard_16863504991130/Dashboard1)
+
+## College Admissions Predictor Regression
+
+Welcome to my College Admissions Project. In this project, I had a sample dataset with hundreds of students' chances of admission based on their GRE scores, CGPAs, information on if they had done research projects, what rating the college they are applying for is (1-5), and more data involving their academic success. I also have a hypothetical dataset with the information above minus the chance of admission for 5 potential students.
+
+The goal of the code was to run multiple different regressions to try to find out the most accurate model to incorporate to get a prediction for the "CollegeScores" dataset that had the 5 potential students.
+
+
+
