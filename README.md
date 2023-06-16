@@ -1,6 +1,7 @@
 ## Contact Information
 
 <img src="grad pic 2.jpg" alt="Daniel Warner" width="30">
+
 ✉️ Email: warnd114@gmail.com
 🌐 LinkedIn: [https://www.linkedin.com/in/daniel-warner-720273238/](https://www.linkedin.com/in/daniel-warner-720273238/)
 
@@ -64,7 +65,6 @@ Files In the Repository Under the "HousingPricesCommit" Include:
 - HousingPricesCompleteCode.R (RStudio code used to clean/manipulate and create the regression models)
 - HousingPredictionProject455.docx (Full report including plot outputs, explanation of code, Introduction to the problem, error measures, data cleaning and manipulating explanation, and conclusion/summary)
 </details>
-
 
 
 
