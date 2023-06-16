@@ -32,4 +32,22 @@ Files In the Repository Under the "CollegeAdmissionCommit" Include:
 The linear regression model ended with the lowest MSE, and using that model I was able to get a prediction of the students' chance of admission to their respective schools (81.3, 69.2...)
 <img src="StudentPredictions.png" alt="Student Prediction Percentage" style="width:420px;">
 
+## Washington Housing Price Predictive Analytics
+
+Welcome to my Housing Price Prediction Project. This project was completed during my time at the University of Oregon in my Predictive Modeling class. This dataset was found through Kaggle and contained 4600 rows of data including information about Washington houses'; prices, city, sq. footage, bedrooms, bathrooms, if they were waterfront properties, had a view, had been remodeled, and much more.
+
+The goal of the project is to create an accurate price for new listings based on previous listings in the state of Washington. The dataset required a lot of cleaning and manipulation that was done through Rstudio to be useful for our problem and regression models. By using multiple different regression techniques I determined the best-fit model regression model to run to come up with the highest accuracy through partitioning the data and training it on the "HousingPricesRawData" dataset. After determining significant variables for predicting the price 
+and exploring three models and performing cross-validations on those models, the Linear Regression model was our best fit for this task. The Linear Regression model ended with a MAPE of 19.7.
+
+For a doc of my complete summary [Click Here](https://github.com/DanWarner00/dans_portfolio/blob/master/HousingPredictionProject455.docx)
+
+For Complete Rstudio Code [Click Here](https://github.com/DanWarner00/dans_portfolio/blob/master/HousingPricesCompleteCode.R)
+
+Files In the Repository Under the "HousingPricesCommit" Include:
+* HousingPricesRawData.csv (The uncleaned raw data used in R studio)
+* HousingPricesCompleteCode.R (Rstudio code used to clean/manipulate and create the regression models)
+* HousingPredictionProject455.docx (Full report including plot outputs, explanation of code, Introduction to the problem, error measures, data cleaning and manipulating explanation, and conclusion/summary)
+
+  
+
 
