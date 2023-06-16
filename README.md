@@ -1,6 +1,6 @@
 ## Contact Information
 
-
+<img src="grad pic 2.jpg" alt="Daniel Warner" width="30">
 ✉️ Email: warnd114@gmail.com
 🌐 LinkedIN: [Daniel Warner's LinkedIN](https://www.linkedin.com/in/daniel-warner-720273238/)
 
