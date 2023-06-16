@@ -4,16 +4,15 @@
 ✉️ Email: warnd114@gmail.com
 🌐 LinkedIn: [https://www.linkedin.com/in/daniel-warner-720273238/](https://www.linkedin.com/in/daniel-warner-720273238/)
 
-
 ## About Me
 
 Hello! I'm Daniel Warner, a recent graduate from The University of Oregon. I am skilled in using SQL, Excel, Tableau, Python, and RStudio to complete data analytics tasks and create data visualizations. I am passionate about continuing to further my education and knowledge in the Data Science field.
 
 Looking forward to connecting with you!
 
-
 # Dans_Portfolio
-### *Please Click On Drop Down Triangle For Information On Projects
+
+### *Please Click On Drop Down Triangle For Information On Projects*
 
 <details>
 <summary><h2>Bike Store Dashboard</h2></summary>
@@ -30,10 +29,10 @@ Files In the Repository Under the "BikeStoreCommit" Include:
 - BikeStoreDashboard.xlsx (Excel file containing pivot tables and Excel dashboard)
 - BikeStoreDashboardTableau (png of Tableau Dashboard) [Tableau Dashboard Link](https://public.tableau.com/app/profile/daniel.warner8834/viz/BikeStoreDashboard_16863504991130/Dashboard1)
   ![Tableau Dashboard](BikeStoreDashboardTableau.png)
- </details>
+</details>
 
 <details>
- <summary><h2>College Admissions Predictor Regression</h2></summary>
+<summary><h2>College Admissions Predictor Regression</h2></summary>
 
 Welcome to my College Admissions Project. In this project, I had a sample dataset with hundreds of students' chances of admission based on their GRE scores, CGPAs, information on if they had done research projects, what rating the college they are applying for is (1-5), and more data involving their academic success. I also have a hypothetical dataset with the information above minus the chance of admission for 5 prospective students.
 
@@ -45,7 +44,7 @@ Files In the Repository Under the "CollegeAdmissionCommit" Include:
 - GraduateAdmissionCode (python code used on studio visual code to test, train, and create models to predict the students' chance at admission) [Link to Code](https://github.com/DanWarner00/dans_portfolio/blob/master/GraduateAdmissionCode.py)
 - StudentPredictions (Screen clipping of output for the chance of admission)
 
-The linear regression model ended with the lowest MSE, and using that model I was able to get a prediction of the students' chance of admission to their respective schools (81.3, 69.2...)
+The linear regression model ended with the lowest MSE, and using that model, I was able to get a prediction of the students' chance of admission to their respective schools (81.3, 69.2...)
 ![Student Prediction Percentage](StudentPredictions.png)
 </details>
 
@@ -65,6 +64,7 @@ Files In the Repository Under the "HousingPricesCommit" Include:
 - HousingPricesCompleteCode.R (RStudio code used to clean/manipulate and create the regression models)
 - HousingPredictionProject455.docx (Full report including plot outputs, explanation of code, Introduction to the problem, error measures, data cleaning and manipulating explanation, and conclusion/summary)
 </details>
+
 
 
 
