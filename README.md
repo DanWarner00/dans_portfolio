@@ -56,7 +56,7 @@ Files in the Repository:
 - HousingPricesCompleteCode.R (Rstudio code used to clean/manipulate and create the regression models)
 - HousingPredictionProject455.docx (Full report including plot outputs, explanation of code, Introduction to the problem, error measures, data cleaning and manipulating explanation, and conclusion/summary)
 
-### NBA 3-Point Project
+### NBA 3-Point Project - Dashboard - SQL, Tableau, Excel
 Welcome to my Evolution of NBA 3s Project! In this project, I leveraged SQL to clean, update, and merge multiple datasets, which were then exported to Excel for additional refinement. Utilizing this curated dataset, I developed an interactive Tableau Public dashboard showcasing various insightful graphs depicting yearly NBA team statistics from the past 20 years. The primary objective of this project was to analyze the progression and surge in the number of attempted 3-pointers in the NBA, while also investigating the correlation between teams having an elite 3-point shooter and their offensive efficiency and points scored per game.
 
 Throughout the project, I employed SQL's data manipulation capabilities to prepare the datasets, ensuring data accuracy and consistency. By merging these datasets and exporting them to Excel, I further refined the data to create a comprehensive foundation for visualization. To provide an engaging and informative experience, I utilized Tableau Public to design an interactive dashboard. The dashboard features a collection of visually appealing graphs that offer valuable insights into the year-on-year changes in 3-point attempts, as well as the impact of elite 3-point shooters on offensive efficiency and scoring trends.
